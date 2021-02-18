@@ -6,6 +6,7 @@ import java.util.TreeMap;
 /**
  * Creates the file output from the information stocked in the treeMap
  */
+ 
 public class SymptomOutput implements ISymptomFile{
     private TreeMap<String, Integer> map = new TreeMap<String, Integer>();
     public SymptomOutput(Map<String, Integer> map){
