@@ -7,7 +7,6 @@ import java.util.ArrayList;
  * Simple brute force implementation
  *
  */
- 
 public class ReadSymptomDataFromFile implements ISymptomReader {
 	private String filepath;
 	/**
